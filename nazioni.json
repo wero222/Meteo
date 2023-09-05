@@ -1,0 +1,20 @@
+[
+    {
+        "id": "AFG",
+        "english_country_name": "Afghanistan",
+        "iso3361_3_characters": "AFG",
+        "iso3361_2_characters": "AF",
+        "istat": 301,
+        "minint": 301,
+        "italian_country_name_1": "AFGHANISTAN",
+        "italian_country_code": "Z200",
+        "taxcode_country_code": "Z200",
+        "italian_country_name_2": "AFGHANISTAN"
+    },
+    {
+        "id": "ALA",
+        "english_country_name": "Åland Islands",
+        "iso3361_3_characters": "ALA",
+        "iso3361_2_characters": "AX"
+    }
+]
